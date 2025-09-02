@@ -459,7 +459,12 @@ See the section on [`代码`](#代码)
 例如：$f(x)=x^2+2x+3$  
 
 **公式块用两个美元符号包围**    
-例如：\$\$\int_{-\infty}\^{\infty} e\^{-x^2} dx = \sqrt{\pi}$$  
+例如：
+\$\$
+\int_{-\infty}\^{\infty} e\^{-x^2} dx = \sqrt{\pi}
+\$\$  
 
 **渲染效果：**  
-例如：$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
+例如：$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
